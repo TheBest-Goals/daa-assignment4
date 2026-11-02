@@ -10,7 +10,7 @@ You are to solve the following on dynamic programming problems. Each problem is 
 6. [Problem 6 - Edit Distance](Problem06.md) **(5 points)**.
 7. [Problem 7 - Longest Palindromic Subsequence](Problem07.md) **(5 points)**.
 8. [Problem 8 - Palindromic Substrings](Problem08.md) **(5 points)**.
-9. [Problem 9 - Maximum Subarray](Problem09.md) **(5 points)**. https://leetcode.com/problems/maximum-subarray
-10. [Problem 10 - House Robber](Problem10.md) **(5 points)**. https://leetcode.com/problems/house-robber
+9. [Problem 9 - Maximum Subarray](Problem09.md) **(5 points)**.
+10. [Problem 10 - House Robber](Problem10.md) **(5 points)**.
 
 **Write and defend** a report describing your solutions for each problem in [REPORT.md](REPORT.md) **(50 points)**.
