@@ -4,7 +4,7 @@ You are to solve the following on dynamic programming problems. Each problem is 
 
 1. [Problem 1 - Counting Bits](Problem01.md) **(5 points)**.
 2. [Problem 2 - Jump Game](Problem02.md) **(5 points)**. 
-3. [Problem 3 - Min Cost Climbing Stairs](Problem03.md) **(5 points)**. https://leetcode.com/problems/min-cost-climbing-stairs
+3. [Problem 3 - Min Cost Climbing Stairs](Problem03.md) **(5 points)**.
 4. [Problem 4 - Longest Increasing Subsequence](Problem04.md) **(5 points)**. https://leetcode.com/problems/longest-increasing-subsequence/
 5. [Problem 5 - Longest Commong Subsequence](Problem05.md) **(5 points)**. https://leetcode.com/problems/longest-common-subsequence
 6. [Problem 6 - Edit Distance](Problem06.md) **(5 points)**. https://leetcode.com/problems/edit-distance
