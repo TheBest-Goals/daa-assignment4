@@ -1,0 +1,33 @@
+### DAA Assignment4 - Report and Defense (50 points)
+
+##### Problem 1 - Counting Bits **(5 points)**.
+...
+
+##### Problem 2 - Jump Game **(5 points)**.
+...
+
+##### Problem 3 - Min Cost Climbing Stairs **(5 points)**.
+...
+
+##### Problem 4 - Longest Increasing Subsequence **(5 points)**.
+...
+
+##### Problem 5 - Longest Common Subsequence **(5 points)**.
+...
+
+##### Problem 6 - Edit Distance **(5 points)**.
+...
+
+##### Problem 7 - Longest Palindromic Subsequence **(5 points)**.
+...
+
+##### Problem 8 - Palindromic Substrings **(5 points)**.
+...
+
+##### Problem 9 - Maximum Subarray **(5 points)**.
+...
+
+##### Problem 10 - House Robber **(5 points)**.
+...
+
+
